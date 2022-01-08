@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 6AA6-BB01
-
- Directory of C:\Users\sammy.li\Desktop\MyProject
-
-01/08/2022  12:21 PM    <DIR>          .
-01/08/2022  12:21 PM    <DIR>          ..
-01/08/2022  12:21 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  429,652,086,784 bytes free
+change 1 
